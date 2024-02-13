@@ -3,7 +3,7 @@ Wassup, Devs![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 I am an aspiring software developer.
 ------------------------------------
-<p align="center">
+<p align="left">
  <samp>
     I'm <a href="https://github.com/SlippyDogg/">stth12</a> currently a First Year student at <a href="https://www.psuti.ru/">@PSUTI</a> and aspiring software developer.
   </samp>
