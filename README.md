@@ -1,10 +1,9 @@
-<p align="center">
 Wassup, Devs![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is stth12
 ==============================================================================================================================
 
 I am an aspiring software developer.
 ------------------------------------
-
+<p align="center">
  <samp>
     I'm <a href="https://github.com/SlippyDogg/">stth12</a> currently a First Year student at <a href="https://www.psuti.ru/">@PSUTI</a> and aspiring software developer.
   </samp>
