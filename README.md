@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm stth12</h1>
- <samp>
-    I'm <a href="https://github.com/SlippyDogg/">stth12</a> currently a First Year student at <a href="https://www.psuti.ru/">@PSUTI</a> and aspiring software developer.
-  </samp>
+# Привет, я stth12! 👋
 
-### Programming Languages  :rocket:
-|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=60> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=60> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60> |
-|:---:|:---:|:---:|
+Привет! Меня зовут stth12, и я страстный разработчик программного обеспечения. Здесь вы найдете некоторые из моих проектов, созданных с использованием различных языков программирования и инструментов.
 
-### Tools :fire:
-|<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width=60> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width=60> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=60> |
-|:---:|:---:|:---:|
+## Языки и Инструменты
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/wyst.wyst.wyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyst.wyst.wyst" height="30" width="40" /></a>
- <a href="https://instagram.com/wyst.wyst.wyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyst.wyst.wyst" height="30" width="40" /></a>
-</p>
-<a href="https://t.me/stth12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stth12" height="30" width="40" /></a>
-</p>
-</p>
+- ![C Логотип](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+- ![HTML Логотип](https://cdn.worldvectorlogo.com/logos/html5.svg)
+- ![CSS Логотип](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+
+### Программы
+
+- ![Blender Логотип](https://download.blender.org/institute/logos/blender_logo.png)
+- ![Visual Studio Логотип](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+- ![GitHub Логотип](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## Контакты
+
+Вы можете связаться со мной через:
+
+- [Instagram](https://www.instagram.com/wyst.wyst.wyst) ![Instagram Логотип](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)
+- [Telegram](https://t.me/stth12) ![Telegram Логотип](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png)
