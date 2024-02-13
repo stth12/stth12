@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm stth12</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+ <samp>
+    I'm <a href="https://github.com/SlippyDogg/">stth12</a> currently a First Year student at <a href="https://www.psuti.ru/">@PSUTI</a> and aspiring software developer.
+  </samp>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
