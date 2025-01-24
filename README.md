@@ -5,7 +5,7 @@ I am an aspiring software developer.
 ------------------------------------
 <p align="left">
  <samp>
-    I'm <a href="https://github.com/SlippyDogg/">stth12</a> currently a First Year student at <a href="https://www.psuti.ru/">@PSUTI</a> and aspiring software developer.
+    I'm <a href="https://github.com/SlippyDogg/">stth12</a> currently a Second Year student at <a href="https://www.psuti.ru/">@PSUTI</a> and aspiring software developer.
   </samp>
 
 * 🌍  I'm based in Russia
